@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/common"/>
+	<classpathentry kind="src" path="src/jamsupport"/>
+	<classpathentry kind="src" path="src/marshal"/>
+	<classpathentry kind="src" path="src/repackage/repackage"/>
+	<classpathentry kind="src" path="src/saaj_api"/>
+	<classpathentry kind="src" path="src/store"/>
+	<classpathentry kind="src" path="src/tools"/>
+	<classpathentry kind="src" path="src/typeholder"/>
+	<classpathentry kind="src" path="src/typeimpl"/>
+	<classpathentry kind="src" path="src/typestore"/>
+	<classpathentry kind="src" path="src/xmlcomp"/>
+	<classpathentry kind="src" path="src/xmlconfig"/>
+	<classpathentry kind="src" path="src/xmlinputstream"/>
+	<classpathentry kind="src" path="src/xmlpublic"/>
+	<classpathentry kind="src" path="src/xpath_xquery"/>
+	<classpathentry kind="src" path="src/zipcompare"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_112">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="build/lib/xbean.jar"/>
+	<classpathentry kind="lib" path="external/lib/ant-1.7.1.jar"/>
+	<classpathentry kind="lib" path="external/lib/saxon9-dom.jar"/>
+	<classpathentry kind="lib" path="external/lib/saxon9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
